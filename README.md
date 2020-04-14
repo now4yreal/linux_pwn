@@ -4,7 +4,7 @@ Record my learning path of linux kernel.Many thanks to all of the brothers I lea
 
 * CVE-2019-8956  
   
-  description: Learn something about sctp,null dereference.  
+  description: Learn something about sctp,null dereference.Environment from Roarctf2019.  
 
   related link: None  
 
